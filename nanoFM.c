@@ -1,3 +1,4 @@
+
 #include <stdio.h>
 #include <stdlib.h>
 #include <ncurses.h>
@@ -70,12 +71,9 @@ if (user_input == 'h' || user_input == 'H'){
                           snprintf(command4, sizeof(command4), "cd && cd %s && wine %s", save, filename);
                           system(command4);} else if (user_input == 0) {
  
-                                            printw("sorry try agin-if you dont konw what to type just type h: ");
+                                            printw("sorry try agin-if you dont konw what to type just type h");
                                              refresh();
-                                             scanw("%c", &user_input); 
-if (user_input == 'h' || user_input == 'H') {
-   system("cd && cd Desktop && konsole --hold -e nano help.txt > /dev/null 2>&1 && cd && cd fnanoFM");}
-} else { printw("sorry there a proplem"); 
+                                             scanw("%c", &user_input);} else { printw("sorry there a proplem"); 
                                                                                endwin();
 
                                                                                return 1;}
@@ -86,3 +84,4 @@ getch();
 endwin();
 return 0;
 }
+ 
