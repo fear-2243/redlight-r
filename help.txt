@@ -1,0 +1,31 @@
+                                      wellcome  to    nanoFM   helper
+
+
+                  _____________________________
+                 |type h for help-             |
+                 |type n to create a new file- |
+                 |type o for open a file-      |
+                 |type f to create new folder- |
+                 |type c for open a folder-    |
+                 |type e to open a exe file    |
+                 |type z to unzip a folder     |
+                 |_____________________________|
+                       nanoFM   helper 0.0
+
+Hello there, user! Since you're here, 
+it probably means you're either new to nanoFM or maybe you want to refresh your memory.
+These are the commands you'll use in nanoFM, and by the way, we assume you know what you're doing... 
+You must make sure to enter only one character when typing the command, and you should also know that the file you want to run exists, 
+and the directory where you want to save it is valid... 
+Pay attention to typing the names correctly with the required case. 
+If you enter an uppercase letter instead of lowercase, we won’t find the file. 
+You also need to include the file extension if it has one. If you're trying to run an .exe file, 
+make sure to include the extension as well... 
+and Thank you. At least, you should have used a Linux distribution before or know its basics... 
+Remember, this is Linux, not Windows, and we can't simplify it further. Also, your device should be relatively weak since you're using Nano Linux, 
+but maybe you have a powerful device and you want to get the most out of its performance, 
+which is really great by the way. I
+'d like to thank you for using Nano Linux. Remember, 
+Nano Linux is supported by people like you who give me the motivation to continue developing this system further... 
+This way, we'll allow anyone, no matter how weak their hardware is, to use the computer and enjoy it with us until their financial situation improves... 
+Nano doesn't eat up your CPU and doesn't limit your system’s performance, unlike others... We mean Microsoft, of course. Good luck using Nano Linux!
