@@ -1,0 +1,1 @@
+https://github.com/srevinsaju/Firefox-Appimage/releases/download/firefox-esr/firefox-esr-128.7.r20250127191809-x86_64.AppImage
